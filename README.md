@@ -8,4 +8,4 @@ Para que puedas utilizar ésta app lo primero será:
 4. Terminada la instalación. Ejecutar `nodemon`. Ahora ya podés acceder a [localhost:3000](http://localhost:3000)
 5. Abrir tu navegador y poner en la barra de búsqueda lo siguiente:  " http://localhost:3000 ".
 
-[https://mercadoliebre2.herokuapp.com/](Haz click para ir al Sitio: Mercado Liebre)
+(https://mercadoliebre2.herokuapp.com/)[Haz click para ir al Sitio: Mercado Liebre]
